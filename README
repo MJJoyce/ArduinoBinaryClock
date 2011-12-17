@@ -1,0 +1,3 @@
+A relatively lazy implementation of a binary clock for arduino.
+
+When the modeToggle pin is set LOW, the clock enters "set" mode. The minute and hour buttons can then be used to increase the respective counters to set the inintial time that the clock begins running at. 
